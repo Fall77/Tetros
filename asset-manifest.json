@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tetros/static/css/main.3dc85328.chunk.css",
+    "main.js": "/Tetros/static/js/main.915c0f3c.chunk.js",
+    "main.js.map": "/Tetros/static/js/main.915c0f3c.chunk.js.map",
+    "runtime-main.js": "/Tetros/static/js/runtime-main.ae7f44b7.js",
+    "runtime-main.js.map": "/Tetros/static/js/runtime-main.ae7f44b7.js.map",
+    "static/js/2.abfb065b.chunk.js": "/Tetros/static/js/2.abfb065b.chunk.js",
+    "static/js/2.abfb065b.chunk.js.map": "/Tetros/static/js/2.abfb065b.chunk.js.map",
+    "index.html": "/Tetros/index.html",
+    "static/css/main.3dc85328.chunk.css.map": "/Tetros/static/css/main.3dc85328.chunk.css.map",
+    "static/js/2.abfb065b.chunk.js.LICENSE.txt": "/Tetros/static/js/2.abfb065b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Tetros/static/media/Pixel-LCD-7.63d9c151.woff",
+    "static/media/bg.b47c0fa6.png": "/Tetros/static/media/bg.b47c0fa6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae7f44b7.js",
+    "static/js/2.abfb065b.chunk.js",
+    "static/css/main.3dc85328.chunk.css",
+    "static/js/main.915c0f3c.chunk.js"
+  ]
+}
