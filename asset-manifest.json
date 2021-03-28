@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Tetros/static/css/main.3dc85328.chunk.css",
-    "main.js": "/Tetros/static/js/main.915c0f3c.chunk.js",
-    "main.js.map": "/Tetros/static/js/main.915c0f3c.chunk.js.map",
+    "main.js": "/Tetros/static/js/main.f136eb18.chunk.js",
+    "main.js.map": "/Tetros/static/js/main.f136eb18.chunk.js.map",
     "runtime-main.js": "/Tetros/static/js/runtime-main.ae7f44b7.js",
     "runtime-main.js.map": "/Tetros/static/js/runtime-main.ae7f44b7.js.map",
     "static/js/2.abfb065b.chunk.js": "/Tetros/static/js/2.abfb065b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ae7f44b7.js",
     "static/js/2.abfb065b.chunk.js",
     "static/css/main.3dc85328.chunk.css",
-    "static/js/main.915c0f3c.chunk.js"
+    "static/js/main.f136eb18.chunk.js"
   ]
 }
